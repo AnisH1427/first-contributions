@@ -1,6 +1,7 @@
 # Contributors
 
 - [Kosumo] (https://github.com/masumo)
+- [Anish Khatiwada] (https://github.com/AnisH1427)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
 - [Abhay Jain](https://github.com/MentallyCramped)
